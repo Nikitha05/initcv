@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.top{
+  background-color: #CDF0EA;
+  position: relative;
+  padding-top: 90px;
+
+}
+h1{
+  position: relative;
+  top:40px;
+  width:20%;
+  margin: 0 auto;
+  font-family:Brush Script MT, cursive;
+  font-weight: lighter;
+}
+.head{
+  position: relative;
+  top: 40px;
+  width: 100px;
+  margin: 0 auto;
+
+}
+p{
+  position: relative;
+  margin: 0 auto;
+}
+.bottom-cloud{
+  position: absolute;
+  left:100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top:70px;
+}
+.mountain{
+
+}
